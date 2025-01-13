@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Front-end
 - 🌱 I’m currently learning ... HTML/CSS/JS (and then PHP)
 - 💞️ I’m looking to collaborate on ... Learning
-- 📫 How to reach me ... hello@connectablesw.co.uk
+- 📫 How to reach me ... hello@gecho.co.uk
 
 <!---
 rpcridge/rpcridge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
